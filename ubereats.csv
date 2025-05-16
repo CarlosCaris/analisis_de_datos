@@ -1,0 +1,301 @@
+id_pedido,cliente,detalle_compra,comuna,valor_compra,repartidor,fecha_pedido,hora_entrega
+1,Luis,Sushi x10,Macul,8679,Daniela,2024-05-04,14:15
+2,Paula,Pizza mediana,Providencia,7434,Carlos,2024-05-02,14:15
+3,Matías,Pizza mediana,Ñuñoa,,Daniela,2024-05-05,11:15
+4,Pedro,Empanadas x6,La Reina,,Carlos,2024-05-02,17:00
+5,Ana,Wrap + jugo,Santiago,12925,Carlos,2024-05-07,12:30
+6,Ana,Empanadas x6,La Reina,,Carlos,2024-05-04,12:45
+7,Pedro,Sushi x15,La Reina,15751,Carlos,2024-05-05,21:00
+8,Pedro,Wrap + jugo,Las Condes,7916,Daniela,2024-05-04,21:30
+9,Jorge,Pizza mediana,La Reina,,Carlos,2024-05-04,20:30
+10,Sebastián,Hamburguesa doble,La Reina,,Carlos,2024-05-04,19:30
+11,Claudia,Hamburguesa doble,Santiago,,Daniela,2024-05-02,11:00
+12,Paula,Pizza Familiar,Las Condes,,Daniela,2024-05-08,19:30
+13,Jorge,Pizza Familiar,La Reina,15201,Daniela,2024-05-03,18:00
+14,Matías,Pizza Familiar,Macul,9646,Daniela,2024-05-04,13:30
+15,Paula,Sushi x15,Las Condes,7949,Carlos,2024-05-02,16:30
+16,Paula,Pizza Familiar,Providencia,14787,Felipe,2024-05-08,12:15
+17,Sofía,Hamburguesa simple,Santiago,,Daniela,2024-05-04,19:15
+18,Sebastián,Hamburguesa simple,Las Condes,7344,Carlos,2024-05-04,14:00
+19,Paula,Empanadas x6,Providencia,7514,Carlos,2024-05-01,14:00
+20,Matías,Empanadas x6,La Reina,,Felipe,2024-05-08,14:15
+21,Camila,Empanadas x6,Providencia,13735,Carlos,2024-05-07,16:45
+22,Luis,Sushi x10,Las Condes,,Felipe,2024-05-06,12:15
+23,Pedro,Pizza mediana,Ñuñoa,14260,Daniela,2024-05-08,14:00
+24,Matías,Sushi x10,Providencia,,Carlos,2024-05-03,17:45
+25,Ana,Hamburguesa doble,Las Condes,,Carlos,2024-05-07,15:45
+26,Pedro,Empanadas x6,La Reina,12138,Carlos,2024-05-01,20:00
+27,Paula,Wrap + jugo,Santiago,10044,Felipe,2024-05-03,11:00
+28,Claudia,Pizza mediana,Providencia,,Felipe,2024-05-04,20:00
+29,Sofía,Empanadas x6,Macul,,Felipe,2024-05-06,14:30
+30,Sebastián,Sushi x15,Providencia,15808,Carlos,2024-05-08,20:00
+31,Matías,Sándwich vegano,Ñuñoa,,Daniela,2024-05-02,14:30
+32,Matías,Sándwich vegano,Santiago,,Felipe,2024-05-01,21:30
+33,Luis,Pizza Familiar,Macul,12617,Felipe,2024-05-03,15:30
+34,Sofía,Hamburguesa simple,Las Condes,11533,Daniela,2024-05-01,12:45
+35,Jorge,Hamburguesa doble,Macul,7158,Daniela,2024-05-03,18:45
+36,Pedro,Hamburguesa simple,Providencia,,Daniela,2024-05-03,17:15
+37,Ana,Sushi x15,Ñuñoa,13658,Felipe,2024-05-04,21:00
+38,Claudia,Hamburguesa doble,Ñuñoa,,Daniela,2024-05-01,13:30
+39,Pedro,Pizza Familiar,Las Condes,,Carlos,2024-05-08,14:15
+40,Claudia,Empanadas x6,Providencia,,Felipe,2024-05-04,17:30
+41,Jorge,Hamburguesa simple,Las Condes,,Felipe,2024-05-06,11:00
+42,Ana,Pizza Familiar,Santiago,,Daniela,2024-05-06,16:45
+43,Paula,Empanadas x6,La Reina,12967,Carlos,2024-05-07,11:15
+44,Jorge,Ensalada César,La Reina,,Felipe,2024-05-02,15:30
+45,Sofía,Hamburguesa simple,Ñuñoa,,Carlos,2024-05-07,21:45
+46,Matías,Sushi x10,La Reina,,Daniela,2024-05-04,17:30
+47,Claudia,Hamburguesa simple,Las Condes,,Felipe,2024-05-03,21:00
+48,Luis,Empanadas x6,Macul,7757,Daniela,2024-05-04,14:15
+49,Sebastián,Ensalada César,Providencia,,Daniela,2024-05-07,21:15
+50,Claudia,Hamburguesa doble,Macul,,Felipe,2024-05-01,12:45
+51,Ana,Hamburguesa simple,Ñuñoa,,Carlos,2024-05-08,13:45
+52,Paula,Hamburguesa simple,Las Condes,11246,Felipe,2024-05-08,13:45
+53,Sofía,Hamburguesa simple,Las Condes,11681,Felipe,2024-05-04,15:45
+54,Sofía,Sushi x15,La Reina,13275,Felipe,2024-05-02,13:15
+55,Claudia,Pizza Familiar,Las Condes,8020,Daniela,2024-05-06,19:45
+56,Camila,Pizza mediana,Santiago,,Felipe,2024-05-01,20:45
+57,Sofía,Pizza mediana,Las Condes,,Felipe,2024-05-04,18:15
+58,Ana,Pizza mediana,La Reina,9091,Felipe,2024-05-07,13:45
+59,Camila,Ensalada César,Santiago,14564,Felipe,2024-05-01,12:45
+60,Ana,Sándwich vegano,Las Condes,,Daniela,2024-05-04,18:30
+61,Camila,Sándwich vegano,Providencia,12733,Daniela,2024-05-01,19:00
+62,Ana,Sushi x10,Ñuñoa,,Carlos,2024-05-01,20:15
+63,Luis,Ensalada César,Ñuñoa,,Daniela,2024-05-05,16:15
+64,Luis,Ensalada César,Providencia,8245,Daniela,2024-05-07,17:15
+65,Sofía,Ensalada César,Providencia,,Felipe,2024-05-01,16:45
+66,Ana,Pizza mediana,Las Condes,14135,Carlos,2024-05-07,16:45
+67,Matías,Sándwich vegano,Santiago,12280,Felipe,2024-05-08,18:45
+68,Luis,Sándwich vegano,Las Condes,,Carlos,2024-05-08,20:45
+69,Jorge,Hamburguesa doble,Las Condes,11581,Carlos,2024-05-06,15:30
+70,Matías,Empanadas x6,Providencia,,Carlos,2024-05-07,18:15
+71,Ana,Pizza Familiar,La Reina,,Carlos,2024-05-07,14:30
+72,Camila,Hamburguesa simple,La Reina,11118,Daniela,2024-05-08,15:30
+73,Claudia,Sushi x15,Providencia,,Felipe,2024-05-03,14:15
+74,Luis,Empanadas x6,La Reina,15751,Carlos,2024-05-06,13:30
+75,Sofía,Sushi x10,Providencia,,Felipe,2024-05-05,13:45
+76,Sebastián,Wrap + jugo,Las Condes,14827,Daniela,2024-05-03,11:30
+77,Camila,Wrap + jugo,Providencia,8395,Felipe,2024-05-01,13:15
+78,Luis,Hamburguesa simple,Las Condes,,Felipe,2024-05-04,19:45
+79,Paula,Pizza mediana,La Reina,,Felipe,2024-05-01,20:00
+80,Luis,Hamburguesa doble,Ñuñoa,,Carlos,2024-05-02,13:00
+81,Sofía,Sushi x10,Ñuñoa,11334,Daniela,2024-05-05,18:00
+82,Camila,Pizza Familiar,Santiago,7977,Carlos,2024-05-03,15:15
+83,Sofía,Ensalada César,Macul,,Felipe,2024-05-05,18:00
+84,Sofía,Hamburguesa simple,Santiago,,Daniela,2024-05-08,12:00
+85,Ana,Pizza Familiar,Ñuñoa,,Felipe,2024-05-01,21:30
+86,Matías,Wrap + jugo,La Reina,,Carlos,2024-05-07,21:45
+87,Camila,Sushi x15,La Reina,,Felipe,2024-05-02,13:30
+88,Camila,Hamburguesa simple,Providencia,,Daniela,2024-05-02,16:30
+89,Matías,Sushi x10,Macul,,Felipe,2024-05-08,17:00
+90,Paula,Wrap + jugo,Macul,,Daniela,2024-05-01,14:30
+91,Sebastián,Wrap + jugo,Providencia,7224,Carlos,2024-05-04,13:30
+92,Claudia,Pizza Familiar,Las Condes,,Carlos,2024-05-03,18:30
+93,Sebastián,Wrap + jugo,Ñuñoa,15327,Daniela,2024-05-03,17:15
+94,Sofía,Pizza mediana,La Reina,15022,Felipe,2024-05-05,11:30
+95,Sebastián,Hamburguesa simple,Las Condes,12272,Daniela,2024-05-06,19:45
+96,Claudia,Ensalada César,Las Condes,,Carlos,2024-05-07,11:30
+97,Pedro,Wrap + jugo,Providencia,,Carlos,2024-05-06,12:45
+98,Ana,Hamburguesa doble,Las Condes,,Felipe,2024-05-03,12:45
+99,Luis,Sushi x15,Macul,15864,Felipe,2024-05-07,16:45
+100,Claudia,Sándwich vegano,Ñuñoa,14269,Felipe,2024-05-02,17:00
+101,Sofía,Sushi x10,Providencia,14056,Daniela,2024-05-01,15:30
+102,Claudia,Hamburguesa simple,Las Condes,13267,Felipe,2024-05-03,13:15
+103,Sebastián,Ensalada César,Ñuñoa,14529,Carlos,2024-05-08,21:30
+104,Sebastián,Sándwich vegano,Macul,,Felipe,2024-05-03,12:45
+105,Sofía,Wrap + jugo,La Reina,,Carlos,2024-05-07,18:00
+106,Paula,Sándwich vegano,Macul,11497,Daniela,2024-05-01,21:45
+107,Paula,Wrap + jugo,La Reina,11106,Carlos,2024-05-06,14:15
+108,Ana,Sándwich vegano,Las Condes,,Carlos,2024-05-06,13:00
+109,Pedro,Empanadas x6,Ñuñoa,,Felipe,2024-05-06,19:30
+110,Sofía,Sushi x15,Providencia,13511,Daniela,2024-05-02,13:15
+111,Camila,Sushi x10,La Reina,,Felipe,2024-05-02,18:30
+112,Luis,Empanadas x6,Las Condes,,Carlos,2024-05-06,20:15
+113,Camila,Pizza Familiar,Ñuñoa,8592,Carlos,2024-05-01,15:45
+114,Matías,Hamburguesa doble,Las Condes,9531,Daniela,2024-05-06,21:45
+115,Sebastián,Ensalada César,Las Condes,14285,Daniela,2024-05-01,16:15
+116,Jorge,Pizza Familiar,Macul,11520,Daniela,2024-05-06,11:45
+117,Sebastián,Pizza Familiar,Macul,9063,Carlos,2024-05-01,11:30
+118,Luis,Hamburguesa simple,Ñuñoa,,Felipe,2024-05-04,14:30
+119,Pedro,Hamburguesa doble,Santiago,,Daniela,2024-05-03,12:00
+120,Claudia,Ensalada César,La Reina,9076,Carlos,2024-05-03,15:00
+121,Luis,Wrap + jugo,Las Condes,,Daniela,2024-05-02,18:15
+122,Sebastián,Sushi x10,Providencia,15032,Daniela,2024-05-07,17:00
+123,Luis,Sushi x15,Santiago,,Carlos,2024-05-02,13:30
+124,Paula,Hamburguesa simple,La Reina,,Daniela,2024-05-07,12:00
+125,Claudia,Pizza mediana,La Reina,,Daniela,2024-05-07,17:00
+126,Sofía,Sushi x15,Ñuñoa,,Felipe,2024-05-08,12:00
+127,Luis,Sushi x15,Ñuñoa,,Felipe,2024-05-01,20:30
+128,Camila,Sushi x10,La Reina,10485,Felipe,2024-05-05,16:00
+129,Sebastián,Empanadas x6,Providencia,10705,Daniela,2024-05-06,12:30
+130,Paula,Sándwich vegano,Providencia,7100,Carlos,2024-05-05,15:30
+131,Pedro,Ensalada César,Macul,15691,Daniela,2024-05-02,13:00
+132,Camila,Pizza mediana,Las Condes,12314,Daniela,2024-05-03,16:30
+133,Pedro,Hamburguesa doble,Santiago,,Carlos,2024-05-02,15:45
+134,Camila,Sándwich vegano,Ñuñoa,,Felipe,2024-05-02,16:45
+135,Matías,Sándwich vegano,Providencia,,Carlos,2024-05-07,20:00
+136,Claudia,Hamburguesa doble,La Reina,14055,Daniela,2024-05-06,12:00
+137,Pedro,Pizza mediana,Santiago,8180,Felipe,2024-05-04,19:30
+138,Camila,Sushi x10,Las Condes,,Carlos,2024-05-06,20:45
+139,Luis,Pizza mediana,Providencia,,Daniela,2024-05-03,20:45
+140,Luis,Empanadas x6,Las Condes,,Felipe,2024-05-07,19:00
+141,Claudia,Sushi x15,Ñuñoa,12752,Carlos,2024-05-02,19:15
+142,Claudia,Pizza Familiar,Ñuñoa,,Daniela,2024-05-04,13:15
+143,Sebastián,Ensalada César,Santiago,9473,Daniela,2024-05-06,21:30
+144,Sebastián,Wrap + jugo,Macul,12766,Daniela,2024-05-05,20:00
+145,Sofía,Wrap + jugo,Las Condes,,Carlos,2024-05-01,16:30
+146,Sebastián,Ensalada César,Santiago,14792,Felipe,2024-05-01,18:15
+147,Ana,Wrap + jugo,Providencia,,Daniela,2024-05-02,19:15
+148,Sebastián,Hamburguesa simple,Santiago,,Felipe,2024-05-03,16:30
+149,Jorge,Ensalada César,Providencia,,Felipe,2024-05-06,12:30
+150,Sofía,Ensalada César,Ñuñoa,,Daniela,2024-05-02,20:15
+151,Pedro,Ensalada César,Macul,12381,Carlos,2024-05-05,19:45
+152,Camila,Hamburguesa simple,La Reina,,Carlos,2024-05-06,15:15
+153,Claudia,Empanadas x6,Ñuñoa,15317,Carlos,2024-05-02,15:00
+154,Jorge,Ensalada César,Ñuñoa,,Felipe,2024-05-07,13:15
+155,Ana,Pizza mediana,La Reina,10833,Felipe,2024-05-04,18:30
+156,Sofía,Wrap + jugo,Ñuñoa,,Daniela,2024-05-08,18:30
+157,Pedro,Empanadas x6,Santiago,13081,Carlos,2024-05-05,11:45
+158,Sofía,Pizza Familiar,Ñuñoa,8502,Daniela,2024-05-08,19:15
+159,Sebastián,Sushi x15,Providencia,10862,Daniela,2024-05-01,17:30
+160,Jorge,Empanadas x6,Providencia,9392,Daniela,2024-05-02,21:30
+161,Sofía,Wrap + jugo,Macul,,Carlos,2024-05-08,18:00
+162,Claudia,Hamburguesa doble,Santiago,10893,Felipe,2024-05-07,12:30
+163,Ana,Empanadas x6,Las Condes,15189,Felipe,2024-05-08,12:00
+164,Matías,Ensalada César,Ñuñoa,12780,Felipe,2024-05-03,15:45
+165,Paula,Pizza mediana,Ñuñoa,8108,Felipe,2024-05-02,19:30
+166,Camila,Wrap + jugo,Providencia,7266,Felipe,2024-05-07,16:30
+167,Jorge,Empanadas x6,Macul,,Felipe,2024-05-02,20:30
+168,Matías,Sushi x15,Macul,,Carlos,2024-05-08,18:15
+169,Ana,Sándwich vegano,Ñuñoa,,Carlos,2024-05-04,11:30
+170,Matías,Wrap + jugo,La Reina,,Carlos,2024-05-04,15:30
+171,Luis,Sushi x15,Las Condes,,Daniela,2024-05-08,17:30
+172,Jorge,Hamburguesa simple,La Reina,,Carlos,2024-05-07,12:45
+173,Jorge,Pizza Familiar,Providencia,,Daniela,2024-05-05,15:45
+174,Jorge,Wrap + jugo,Providencia,11498,Felipe,2024-05-06,20:45
+175,Camila,Sushi x15,Santiago,7570,Felipe,2024-05-03,11:15
+176,Luis,Empanadas x6,Macul,,Daniela,2024-05-06,17:00
+177,Jorge,Wrap + jugo,Providencia,,Felipe,2024-05-03,19:30
+178,Claudia,Pizza Familiar,Providencia,,Felipe,2024-05-03,18:45
+179,Sebastián,Empanadas x6,Santiago,,Daniela,2024-05-08,14:00
+180,Pedro,Wrap + jugo,Providencia,,Felipe,2024-05-06,21:30
+181,Sofía,Hamburguesa doble,Macul,10292,Felipe,2024-05-03,16:15
+182,Claudia,Wrap + jugo,Providencia,,Daniela,2024-05-06,18:15
+183,Camila,Wrap + jugo,Santiago,9053,Daniela,2024-05-07,20:00
+184,Sebastián,Wrap + jugo,Macul,9114,Felipe,2024-05-06,13:15
+185,Luis,Hamburguesa simple,Ñuñoa,,Daniela,2024-05-03,13:30
+186,Luis,Sándwich vegano,Ñuñoa,8530,Felipe,2024-05-05,13:30
+187,Paula,Ensalada César,Ñuñoa,7464,Carlos,2024-05-06,20:00
+188,Paula,Sándwich vegano,Macul,,Carlos,2024-05-07,20:00
+189,Sofía,Wrap + jugo,Ñuñoa,7981,Felipe,2024-05-07,15:45
+190,Sebastián,Pizza mediana,Las Condes,,Daniela,2024-05-04,16:15
+191,Camila,Hamburguesa doble,La Reina,,Felipe,2024-05-02,16:15
+192,Sebastián,Empanadas x6,Ñuñoa,11067,Carlos,2024-05-01,15:45
+193,Jorge,Ensalada César,Macul,,Daniela,2024-05-04,13:45
+194,Sofía,Wrap + jugo,Providencia,,Carlos,2024-05-07,19:45
+195,Ana,Sushi x10,La Reina,14060,Daniela,2024-05-08,15:00
+196,Sofía,Sushi x15,Las Condes,,Daniela,2024-05-01,17:00
+197,Luis,Pizza mediana,Santiago,,Daniela,2024-05-05,20:00
+198,Jorge,Sushi x15,Santiago,15193,Daniela,2024-05-03,14:45
+199,Ana,Hamburguesa doble,Macul,15446,Daniela,2024-05-08,19:45
+200,Jorge,Ensalada César,La Reina,,Carlos,2024-05-07,20:30
+201,Paula,Sándwich vegano,Las Condes,13824,Carlos,2024-05-06,16:00
+202,Paula,Wrap + jugo,La Reina,,Felipe,2024-05-04,11:45
+203,Pedro,Empanadas x6,Providencia,,Felipe,2024-05-02,14:00
+204,Pedro,Pizza mediana,Macul,9262,Carlos,2024-05-07,19:45
+205,Matías,Sushi x15,Macul,,Daniela,2024-05-07,16:15
+206,Matías,Sushi x15,Macul,,Felipe,2024-05-05,20:45
+207,Matías,Sándwich vegano,Ñuñoa,,Daniela,2024-05-05,14:45
+208,Matías,Sándwich vegano,La Reina,9399,Carlos,2024-05-07,17:30
+209,Sofía,Pizza Familiar,La Reina,,Daniela,2024-05-05,18:15
+210,Matías,Sándwich vegano,Ñuñoa,10697,Carlos,2024-05-04,14:00
+211,Ana,Pizza Familiar,Las Condes,,Daniela,2024-05-08,12:15
+212,Sebastián,Wrap + jugo,Macul,8465,Carlos,2024-05-05,16:30
+213,Matías,Sushi x10,Ñuñoa,,Daniela,2024-05-03,11:45
+214,Ana,Sushi x10,La Reina,,Felipe,2024-05-02,16:30
+215,Pedro,Hamburguesa simple,Las Condes,,Daniela,2024-05-04,12:30
+216,Pedro,Sushi x10,Macul,,Daniela,2024-05-05,20:15
+217,Matías,Sushi x15,Providencia,12301,Daniela,2024-05-02,13:15
+218,Ana,Sándwich vegano,Las Condes,,Carlos,2024-05-08,15:30
+219,Jorge,Empanadas x6,Providencia,,Felipe,2024-05-02,18:30
+220,Luis,Sándwich vegano,La Reina,,Felipe,2024-05-04,14:15
+221,Paula,Sushi x15,Las Condes,,Felipe,2024-05-08,19:15
+222,Matías,Sushi x15,Providencia,9455,Felipe,2024-05-02,11:15
+223,Jorge,Hamburguesa simple,Las Condes,,Carlos,2024-05-04,20:45
+224,Ana,Wrap + jugo,Ñuñoa,14575,Felipe,2024-05-07,18:00
+225,Camila,Sándwich vegano,Providencia,,Felipe,2024-05-04,20:00
+226,Luis,Hamburguesa simple,Providencia,9948,Carlos,2024-05-08,11:30
+227,Camila,Sushi x15,Las Condes,,Daniela,2024-05-07,17:00
+228,Luis,Hamburguesa doble,Santiago,,Daniela,2024-05-03,14:00
+229,Matías,Pizza mediana,Santiago,,Daniela,2024-05-04,14:45
+230,Claudia,Pizza Familiar,Providencia,10943,Felipe,2024-05-07,20:00
+231,Luis,Ensalada César,Providencia,14191,Daniela,2024-05-01,14:00
+232,Matías,Empanadas x6,Providencia,,Carlos,2024-05-05,14:30
+233,Pedro,Hamburguesa simple,Ñuñoa,,Daniela,2024-05-05,15:00
+234,Ana,Sushi x15,Macul,13688,Felipe,2024-05-07,19:30
+235,Sofía,Pizza mediana,Ñuñoa,,Felipe,2024-05-08,14:15
+236,Ana,Hamburguesa simple,Las Condes,,Daniela,2024-05-03,17:15
+237,Luis,Wrap + jugo,La Reina,13179,Carlos,2024-05-04,11:30
+238,Claudia,Ensalada César,Macul,12455,Felipe,2024-05-04,18:15
+239,Claudia,Empanadas x6,Macul,,Carlos,2024-05-08,14:15
+240,Sofía,Pizza mediana,Las Condes,,Felipe,2024-05-06,15:30
+241,Sebastián,Pizza Familiar,Macul,12126,Daniela,2024-05-06,14:30
+242,Paula,Empanadas x6,Macul,9497,Carlos,2024-05-01,15:45
+243,Jorge,Empanadas x6,Las Condes,,Felipe,2024-05-04,18:30
+244,Sebastián,Hamburguesa doble,Macul,10015,Daniela,2024-05-03,13:45
+245,Matías,Sushi x10,Providencia,9252,Felipe,2024-05-01,11:45
+246,Pedro,Sushi x10,Ñuñoa,14916,Felipe,2024-05-08,16:00
+247,Ana,Hamburguesa simple,Santiago,15777,Daniela,2024-05-01,11:30
+248,Matías,Pizza mediana,Ñuñoa,,Carlos,2024-05-02,19:15
+249,Jorge,Sándwich vegano,Las Condes,,Carlos,2024-05-06,17:45
+250,Luis,Sushi x10,Providencia,7154,Daniela,2024-05-07,17:45
+251,Luis,Wrap + jugo,Las Condes,7697,Felipe,2024-05-06,20:00
+252,Claudia,Ensalada César,Las Condes,7539,Daniela,2024-05-01,12:30
+253,Jorge,Sushi x10,Ñuñoa,9661,Felipe,2024-05-03,17:00
+254,Paula,Pizza mediana,Macul,,Felipe,2024-05-06,17:15
+255,Ana,Pizza Familiar,Las Condes,,Carlos,2024-05-02,16:45
+256,Sebastián,Wrap + jugo,Ñuñoa,,Daniela,2024-05-07,17:15
+257,Claudia,Pizza Familiar,Providencia,,Daniela,2024-05-03,17:15
+258,Luis,Pizza Familiar,Providencia,8674,Daniela,2024-05-08,16:30
+259,Pedro,Pizza mediana,Las Condes,8468,Felipe,2024-05-07,12:00
+260,Paula,Ensalada César,La Reina,8387,Daniela,2024-05-01,15:45
+261,Paula,Hamburguesa simple,Ñuñoa,,Felipe,2024-05-07,13:15
+262,Sebastián,Hamburguesa doble,Providencia,11911,Carlos,2024-05-07,15:45
+263,Jorge,Sándwich vegano,Ñuñoa,8752,Felipe,2024-05-08,20:15
+264,Sofía,Sushi x10,Las Condes,14055,Daniela,2024-05-07,16:45
+265,Sofía,Sushi x15,Santiago,,Felipe,2024-05-04,18:30
+266,Sofía,Wrap + jugo,Santiago,13437,Carlos,2024-05-06,17:30
+267,Paula,Empanadas x6,Santiago,,Felipe,2024-05-03,21:00
+268,Sofía,Pizza Familiar,Las Condes,11139,Felipe,2024-05-08,13:30
+269,Camila,Pizza mediana,Providencia,,Daniela,2024-05-08,20:45
+270,Matías,Sushi x10,La Reina,12816,Felipe,2024-05-02,12:15
+271,Paula,Pizza mediana,La Reina,10637,Daniela,2024-05-02,11:00
+272,Sebastián,Sushi x15,Las Condes,,Daniela,2024-05-03,16:00
+273,Camila,Pizza Familiar,Providencia,14460,Felipe,2024-05-03,16:30
+274,Matías,Wrap + jugo,La Reina,,Daniela,2024-05-02,18:45
+275,Ana,Pizza Familiar,Providencia,15454,Daniela,2024-05-02,21:15
+276,Matías,Hamburguesa doble,La Reina,10022,Felipe,2024-05-07,18:15
+277,Camila,Pizza mediana,Providencia,7072,Felipe,2024-05-04,18:45
+278,Claudia,Sándwich vegano,Macul,12340,Carlos,2024-05-02,19:15
+279,Sebastián,Pizza Familiar,La Reina,13367,Felipe,2024-05-08,19:30
+280,Jorge,Sushi x15,Las Condes,,Felipe,2024-05-03,21:30
+281,Luis,Empanadas x6,La Reina,,Carlos,2024-05-03,16:15
+282,Paula,Hamburguesa doble,Santiago,9838,Daniela,2024-05-07,13:45
+283,Sebastián,Sándwich vegano,Ñuñoa,,Carlos,2024-05-06,18:00
+284,Pedro,Empanadas x6,Las Condes,,Felipe,2024-05-08,17:45
+285,Pedro,Pizza Familiar,Santiago,,Carlos,2024-05-04,15:00
+286,Pedro,Wrap + jugo,Santiago,,Felipe,2024-05-08,19:00
+287,Matías,Sushi x10,Macul,11055,Daniela,2024-05-04,17:00
+288,Sebastián,Sándwich vegano,La Reina,,Carlos,2024-05-08,12:15
+289,Pedro,Ensalada César,Ñuñoa,11605,Carlos,2024-05-04,11:30
+290,Jorge,Sándwich vegano,La Reina,9221,Felipe,2024-05-05,19:00
+291,Sofía,Hamburguesa doble,Macul,,Carlos,2024-05-04,13:30
+292,Pedro,Ensalada César,Macul,,Daniela,2024-05-07,17:45
+293,Matías,Sándwich vegano,Macul,,Daniela,2024-05-08,18:30
+294,Jorge,Pizza Familiar,Santiago,,Daniela,2024-05-04,17:15
+295,Sofía,Sushi x15,Santiago,12631,Felipe,2024-05-03,20:45
+296,Luis,Wrap + jugo,Providencia,14009,Carlos,2024-05-03,18:45
+297,Pedro,Sándwich vegano,Ñuñoa,,Daniela,2024-05-02,21:30
+298,Pedro,Sushi x10,Las Condes,8494,Felipe,2024-05-05,14:45
+299,Claudia,Wrap + jugo,Providencia,,Carlos,2024-05-04,19:45
+300,Luis,Pizza mediana,Macul,13276,Carlos,2024-05-08,12:15
